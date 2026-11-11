@@ -1,66 +1,96 @@
-Hi, I'm Syd 👋
+<!-- Banner -->
+<div align="center">
 
-<p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3776AB&vCenter=true&width=500&lines=Python+Full+Stack+Developer;Django+%7C+Flask+%7C+React+%7C+SQL;Building+Scalable+Web+Apps" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=200&section=header&text=Sayyid%20Midlaj&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=Python%20Full%20Stack%20Developer%20%C2%B7%20Kerala%2C%20India&descAlignY=62&descSize=18" alt="Sayyid Midlaj banner" />
 
-Aspiring Python Full Stack Developer from Kerala, India, passionate about building responsive, data-driven web applications and clean backend architectures. Currently seeking an internship or junior developer role.
-
-🌐 Portfolio: sayyidmidlaj.vercel.app
-
-💻 Technical Skills
-
-Backend & Databases
-
-Frontend
-
-Tools & Platforms
-
-🧠 Soft Skills
-
-🔍 Problem Solving: Breaking down complex application logic into clean, modular code
-
-🤝 Collaboration: Working effectively in team environments and communicating technical ideas clearly
-
-⚡ Fast Learner: Quickly adapting to new backend frameworks, libraries, and best practices
-
-🎯 Attention to Detail: Crafting intuitive UI layouts and well-structured database schemas
-
-⏱️ Time Management: Delivering features reliably with an organized workflow
-
-🚀 Featured Projects
-
-🌐 Personal Portfolio Website
-
-Personal portfolio showcasing full stack projects, technical proficiencies, and contact details.
-
-Tech: HTML5, CSS3, JavaScript, Vercel
-
-✈️ Malabar Voyages · GitHub Repo
-
-Responsive travel agency web application featuring destination showcases, tour packages, testimonials, and booking workflow.
-
-Tech: HTML5, CSS3, Bootstrap
-
-⚙️ Python / Full Stack Project (In Progress)
-
-Data-driven web application with user authentication, CRUD operations, and relational database integration.
-
-Tech: Python, Django, SQL
-
-📬 Connect With Me
-
-<p align="left">
-<a href="https://sayyidmidlaj.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-sayyidmidlaj.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+with+Django+%26+React;Turning+ideas+into+working+web+apps;Currently+open+to+internships+%26+junior+roles" alt="Typing animation" />
 </a>
-<a href="mailto:midlajsyd@gmail.com">
-<img src="https://img.shields.io/badge/Email-midlajsyd%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/sayyid-midlaj-0b1108341/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Sayyid_Midlaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/midlajsyd" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-midlajsyd-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-</p>
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-sayyidmidlaj.vercel.app-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://sayyidmidlaj.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sayyid%20Midlaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayyid-midlaj-0b108341)
+[![Email](https://img.shields.io/badge/Email-midlajsyd@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:midlajsyd@gmail.com)
+
+</div>
+
+---
+
+## 👋 About me
+
+```python
+class Syd:
+    name     = "Sayyid Midlaj"
+    role     = "Python Full Stack Intern @ Techolas, Kochi"
+    stack    = ["Python", "Django", "React", "SQL"]
+    based_in = "Kerala, India"
+    studying = "M.A. Sociology (a different lens on building for people)"
+    status   = "Open to internships & junior developer roles 🚀"
+
+    def motto(self):
+        return "Clean backend, responsive frontend, ship it."
+```
+
+I build data-driven web apps with Python and Django on the backend and React on the front. A sociology background taught me to think about *who* I'm building for, not just *what* I'm building.
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend & Databases**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it is | Tech |
+|---|---|---|
+| 🌐 **[Personal Portfolio](https://sayyidmidlaj.vercel.app)** | Showcase of my projects, skills and contact details | HTML · Tailwind · JavaScript · Vercel |
+| ✈️ **Malabar Voyages** | Responsive Kerala travel site with destinations, tour packages, testimonials and a booking flow | HTML · CSS · Bootstrap |
+| ⚙️ **Full Stack App** *(in progress)* | Data-driven app with user authentication, CRUD operations and a relational database | Python · Django · SQL |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=midlajsyd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midlajsyd&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
+
+---
+
+## 🎯 Currently
+
+- 🔭 Building my full stack Django project
+- 🌱 Leveling up React and exploring 3D / scroll animations (three.js, GSAP)
+- 💼 Looking for an internship or junior developer role
+- 📫 Best way to reach me: [email](mailto:midlajsyd@gmail.com) or [LinkedIn](https://linkedin.com/in/sayyid-midlaj-0b108341)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=100&section=footer" alt="footer" />
+
+</div>
