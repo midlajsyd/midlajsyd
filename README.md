@@ -1,9 +1,56 @@
-Hi, I'm Syd 👋<p align="left">
+Hi, I'm Syd 👋
+
+<p align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3776AB&vCenter=true&width=500&lines=Python+Full+Stack+Developer;Django+%7C+Flask+%7C+React+%7C+SQL;Building+Scalable+Web+Apps" alt="Typing SVG" />
-</p>Aspiring Python Full Stack Developer from Kerala, India, passionate about building responsive, data-driven web applications and clean backend architectures. Currently seeking an internship or junior developer role.🌐 Portfolio: sayyidmidlaj.vercel.app💻 Technical SkillsBackend & DatabasesFrontendTools & Platforms🧠 Soft Skills🔍 Problem Solving: Breaking down complex application logic into modular, maintainable code🤝 Collaboration: Working effectively in team environments and communicating technical concepts clearly⚡ Fast Learner: Quickly adapting to new frameworks, libraries, and backend patterns🎯 Attention to Detail: Designing clean UI layouts and robust database relations⏱️ Time Management: Delivering milestones consistently with an agile mindset🚀 Featured ProjectsProjectDescriptionTech StackLinksPortfolio WebsitePersonal portfolio platform showcasing full stack projects, technical proficiencies, and contact information.HTML5, CSS3, JavaScriptLive SiteMalabar VoyagesResponsive travel agency web application featuring destination showcases, tour packages, testimonials, and a booking form.HTML5, CSS3, BootstrapLive Site · Source CodePython / Full Stack Project (In Progress)Data-driven web application featuring user authentication, CRUD APIs, and relational database integration.Python, Django, SQL(Coming Soon)📊 GitHub Activity<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=midlajsyd&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Syd's GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midlajsyd&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
-</p>📬 Connect With Me<p align="left">
+</p>
+
+Aspiring Python Full Stack Developer from Kerala, India, passionate about building responsive, data-driven web applications and clean backend architectures. Currently seeking an internship or junior developer role.
+
+🌐 Portfolio: sayyidmidlaj.vercel.app
+
+💻 Technical Skills
+
+Backend & Databases
+
+Frontend
+
+Tools & Platforms
+
+🧠 Soft Skills
+
+🔍 Problem Solving: Breaking down complex application logic into clean, modular code
+
+🤝 Collaboration: Working effectively in team environments and communicating technical ideas clearly
+
+⚡ Fast Learner: Quickly adapting to new backend frameworks, libraries, and best practices
+
+🎯 Attention to Detail: Crafting intuitive UI layouts and well-structured database schemas
+
+⏱️ Time Management: Delivering features reliably with an organized workflow
+
+🚀 Featured Projects
+
+🌐 Personal Portfolio Website
+
+Personal portfolio showcasing full stack projects, technical proficiencies, and contact details.
+
+Tech: HTML5, CSS3, JavaScript, Vercel
+
+✈️ Malabar Voyages · GitHub Repo
+
+Responsive travel agency web application featuring destination showcases, tour packages, testimonials, and booking workflow.
+
+Tech: HTML5, CSS3, Bootstrap
+
+⚙️ Python / Full Stack Project (In Progress)
+
+Data-driven web application with user authentication, CRUD operations, and relational database integration.
+
+Tech: Python, Django, SQL
+
+📬 Connect With Me
+
+<p align="left">
 <a href="https://sayyidmidlaj.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-sayyidmidlaj.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
