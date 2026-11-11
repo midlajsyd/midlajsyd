@@ -66,17 +66,17 @@ I build data-driven web apps with Python and Django on the backend and React on 
 | Project | What it is | Tech |
 |---|---|---|
 | 🌐 **[Personal Portfolio](https://sayyidmidlaj.vercel.app)** | Showcase of my projects, skills and contact details | HTML · Tailwind · JavaScript · Vercel |
-| ✈️ **Malabar Voyages** | Responsive Kerala travel site with destinations, tour packages, testimonials and a booking flow | HTML · CSS · Bootstrap |
+| ✈️ **[Malabar Voyages](https://malabar-voya.vercel.app)** ([code](https://github.com/midlajsyd/malabar-voya)) | Responsive Kerala travel site with destinations, tour packages, testimonials and a booking flow | HTML · CSS · Bootstrap |
 | ⚙️ **Full Stack App** *(in progress)* | Data-driven app with user authentication, CRUD operations and a relational database | Python · Django · SQL |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=midlajsyd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midlajsyd&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+[![Followers](https://img.shields.io/github/followers/midlajsyd?style=for-the-badge&logo=github&color=0f172a)](https://github.com/midlajsyd?tab=followers)
+[![Malabar Voyages stars](https://img.shields.io/github/stars/midlajsyd/malabar-voya?style=for-the-badge&logo=github&color=0f172a&label=Malabar%20Voyages%20%E2%AD%90)](https://github.com/midlajsyd/malabar-voya)
 
 </div>
 
