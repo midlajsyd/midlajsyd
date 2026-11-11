@@ -1,28 +1,3 @@
-# Hi, I'm Syd 👋
-
-**Aspiring Python Full Stack Developer** from Kerala, India, looking for an internship or junior developer role.
-
-I'm a sociologist who codes. My background in Sociology (BA, University of Calicut; MA, SNGOU) shapes how I think about design: I start with the people using the website, then build the interface around them.
-
-## What I'm doing now
-
-- 🎓 Python Full Stack Development at Techolas, Kochi
-- 💻 Building frontend projects and learning towards Python full stack development
-
-## Tech I use
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-## Featured project
-
-**[Malabar Voyages](https://github.com/midlajsyd/malabar-voya)** is a responsive travel agency website with destination pages, packages, testimonials and a booking page, built with HTML, CSS and Bootstrap.
-🔗 [Live site](https://midlajsyd.github.io/malabar-voya/)
-
-## Get in touch
-
-📧 midlajsyd@gmail.com
+Hi, I'm Syd 👋<p align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=3776AB&vCenter=true&width=500&lines=Aspiring+Python+Full+Stack+Developer;Sociologist+Who+Codes;Django+%7C+Flask+%7C+React+%7C+SQL" alt="Typing SVG" />
+</p>Aspiring Python Full Stack Developer from Kerala, India, seeking an internship or junior developer role.I'm a sociologist who codes. My academic background in Sociology (BA, University of Calicut; MA, SNGOU) gives me a distinct human-centered perspective: I study how people interact, identify their real needs, and engineer robust, intuitive web applications around them.🔭 What I'm Doing Now🎓 Specializing: Python Full Stack Development at Techolas Technologies, Kochi⚙️ Backend Engineering: Building relational database schemas and RESTful web services with Django, Flask, and SQL🎨 Frontend Craft: Designing responsive, accessible user interfaces with React, JavaScript, and Bootstrap💼 Actively Seeking: Full-Stack / Python Backend Developer internships and entry-level positions🛠️ Tech Stack & SkillsBackend & DatabasesFrontend DevelopmentTools & Workflow🚀 Featured ProjectsProjectDescriptionTech StackLinksMalabar VoyagesResponsive travel agency web application featuring destination catalogs, tour packages, client testimonials, and an interactive booking workflow.HTML5, CSS3, BootstrapLive Site · Source CodePython / Full Stack Project (In Progress)Backend service and data-driven web app implementing authentication, CRUD operations, and relational database management.Python, Django, SQL(
